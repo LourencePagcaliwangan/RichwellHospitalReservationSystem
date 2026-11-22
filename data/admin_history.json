@@ -1,26 +1,2 @@
 [
-    {
-        "timestamp": "2026-11-21 09:04:56",
-        "admin": "admin",
-        "action": "Updated Status",
-        "details": "Appointment RWH-8A955B set to Pending"
-    },
-    {
-        "timestamp": "2026-11-21 09:04:53",
-        "admin": "admin",
-        "action": "Updated Status",
-        "details": "Appointment RWH-94D107 set to Confirmed"
-    },
-    {
-        "timestamp": "2026-11-21 09:04:39",
-        "admin": "admin",
-        "action": "Updated Status",
-        "details": "Appointment RHS-2026-4697 set to Completed"
-    },
-    {
-        "timestamp": "2026-11-21 07:33:18",
-        "admin": "admin",
-        "action": "Updated Status",
-        "details": "Appointment RHS-2026-4533 set to Completed"
-    }
 ]
