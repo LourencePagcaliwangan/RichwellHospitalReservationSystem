@@ -1,0 +1,47 @@
+[
+    {
+        "reference_no": "RHS-2026-4533",
+        "patient_name": "Lourence Pagcaliwangan",
+        "patient_email": "windowssoliel@gmail.com",
+        "patient_phone": "09766043263",
+        "department": "General Medicine",
+        "doctor": "Dr. Maria Santos",
+        "appointment_date": "2026-11-19",
+        "time_slot": "01:00 PM - 02:00 PM",
+        "status": "Completed",
+        "created_at": "2026-11-17 19:47:32"
+    },
+    {
+        "reference_no": "RHS-2026-4697",
+        "patient_name": "Lourence Pagcaliwangan",
+        "patient_email": "richwelllourencecaba@gmail.com",
+        "department": "Cardiology",
+        "doctor": "Dr. Juan Dela Cruz",
+        "appointment_date": "2026-11-26",
+        "time_slot": "01:00 PM - 02:00 PM",
+        "status": "Completed",
+        "created_at": "2026-11-17 20:26:53"
+    },
+    {
+        "reference_no": "RWH-94D107",
+        "patient_name": "Lourence Pagcaliwangan",
+        "patient_email": "richwelllourencecaba@gmail.com",
+        "department": "General Medicine",
+        "doctor": "Dr. Juan Dela Cruz",
+        "appointment_date": "2026-11-19",
+        "time_slot": "09:00 AM - 10:00 AM",
+        "status": "Confirmed",
+        "created_at": "2026-11-19 17:50:17"
+    },
+    {
+        "reference_no": "RWH-8A955B",
+        "patient_name": "John Cedric Tuazon",
+        "patient_email": "johncedi123@gmail.com",
+        "department": "Pediatrics",
+        "doctor": "Dr. Gabriel Lim",
+        "appointment_date": "2026-11-20",
+        "time_slot": "03:00 PM - 04:00 PM",
+        "status": "Pending",
+        "created_at": "2026-11-19 23:27:52"
+    }
+]

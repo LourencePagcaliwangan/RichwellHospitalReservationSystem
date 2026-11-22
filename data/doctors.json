@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Dr. Sean Jerith Cruz",
+        "department": "Pediatrics",
+        "hours": "Mon - Fri | 9:00 AM - 3:00 PM",
+        "bio": "Board-certified pediatrician specializing in infant care, vaccinations, and childhood wellness."
+    },
+    {
+        "name": "Dr. Niko Capito",
+        "department": "General Medicine",
+        "hours": "Mon - Sat | 9:00 AM - 3:00 PM",
+        "bio": "Internal medicine specialist focusing on preventive healthcare, diagnostics, and chronic care."
+    },
+    {
+        "name": "Dr. Angelo Marcelo",
+        "department": "Cardiology",
+        "hours": "Tue - Fri | 10:00 AM - 3:00 PM",
+        "bio": "Interventional cardiologist with 12+ years of clinical experience in cardiovascular health."
+    },
+    {
+        "name": "Dr. John Cedric Tuazon",
+        "department": "Orthopedics",
+        "hours": "Mon - Wed | 8:00 AM - 2:00 PM",
+        "bio": "Orthopedic surgeon specializing in joint replacements, sports injuries, and rehabilitation."
+    },
+    {
+        "name": "Dr. Jaspher Capili",
+        "department": "Dermatology",
+        "hours": "Thu - Sat | 10:00 AM - 4:00 PM",
+        "bio": "Dermatologist focused on clinical skin care, allergy testing, and dermatological surgery."
+    },
+    {
+        "name": "Dr. Lance Gerald De Guzman",
+        "department": "Neurology",
+        "hours": "Mon, Wed, Fri | 1:00 PM - 5:00 PM",
+        "bio": "Neurologist treating migraines, neuropathy, and neurological movement disorders."
+    }
+]
